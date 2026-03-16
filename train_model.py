@@ -1,3 +1,4 @@
+# Training script for house price prediction model using Linear Regression
 import pandas as pd
 import numpy as np
 import joblib
