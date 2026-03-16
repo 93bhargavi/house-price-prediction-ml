@@ -10,6 +10,10 @@ The dataset is synthetically generated and consists of the following features:
 - `location_score`: A score from 1 to 10 representing the desirability of the location.
 - `price`: The target variable, representing the house price in dollars.
 
+
+## Model Evaluation
+The trained regression model is evaluated using Mean Absolute Error (MAE) and R² score to measure prediction performance.
+
 ## Model Explanation
 The project uses a **Linear Regression** model, which is a fundamental regression algorithm that models the relationship between the features and the target variable by fitting a linear equation to observed data.
 
